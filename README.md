@@ -11,7 +11,7 @@ npm install
 npm run dev
 ```
 
-Open http://127.0.0.1:5173. Express listens on http://127.0.0.1:3001. Vite proxies `/api` to Express. Both bind to loopback by default. Stop both using Ctrl+C.
+https://codehub-wmwp.onrender.com
 
 ```sh
 npm run dev:admin  # explicitly enable local editing, then visit /admin
