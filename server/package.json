@@ -1,0 +1,14 @@
+{
+  "name": "codehub-server",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "dev:admin": "NODE_ENV=development ENABLE_LOCAL_ADMIN=true node --watch server.js",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

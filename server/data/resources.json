@@ -1,0 +1,866 @@
+[
+  {
+    "id": "1",
+    "name": "MDN HTML",
+    "description": "The essential reference for building accessible, well-structured web pages.",
+    "category": "HTML",
+    "level": "Beginner",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+    "keywords": [
+      "html",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "2",
+    "name": "Learn HTML",
+    "description": "Build a solid foundation in semantic markup, forms, and document structure.",
+    "category": "HTML",
+    "level": "Beginner",
+    "type": "Course",
+    "free": true,
+    "url": "https://web.dev/learn/html",
+    "keywords": [
+      "html",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "3",
+    "name": "freeCodeCamp",
+    "description": "Learn by doing with free coding challenges, projects, and certifications.",
+    "category": "HTML",
+    "level": "Beginner",
+    "type": "Course",
+    "free": true,
+    "url": "https://www.freecodecamp.org/learn/",
+    "keywords": [
+      "html",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "4",
+    "name": "The Odin Project",
+    "description": "A hands-on path through the foundations of modern web development.",
+    "category": "HTML",
+    "level": "Beginner",
+    "type": "Course",
+    "free": true,
+    "url": "https://www.theodinproject.com/paths/foundations/courses/foundations",
+    "keywords": [
+      "html",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "5",
+    "name": "MDN CSS",
+    "description": "Your complete guide to styling the web, from selectors to modern layouts.",
+    "category": "CSS",
+    "level": "Beginner",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+    "keywords": [
+      "css",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "6",
+    "name": "Learn CSS",
+    "description": "Explore the fundamentals of CSS in this practical, modular course.",
+    "category": "CSS",
+    "level": "Beginner",
+    "type": "Course",
+    "free": true,
+    "url": "https://web.dev/learn/css",
+    "keywords": [
+      "css",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "7",
+    "name": "Flexbox Froggy",
+    "description": "Learn CSS flexbox by helping a pond full of frogs find their lily pads.",
+    "category": "CSS",
+    "level": "Beginner",
+    "type": "Interactive",
+    "free": true,
+    "url": "https://flexboxfroggy.com/",
+    "keywords": [
+      "css",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "8",
+    "name": "Grid Garden",
+    "description": "Grow your CSS grid skills with an interactive garden game.",
+    "category": "CSS",
+    "level": "Beginner",
+    "type": "Interactive",
+    "free": true,
+    "url": "https://cssgridgarden.com/",
+    "keywords": [
+      "css",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "9",
+    "name": "JavaScript.info",
+    "description": "From the basics to advanced topics, with simple explanations and examples.",
+    "category": "JavaScript",
+    "level": "Beginner",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://javascript.info/",
+    "keywords": [
+      "javascript",
+      "programming",
+      "learning"
+    ],
+    "featured": true
+  },
+  {
+    "id": "10",
+    "name": "MDN JavaScript",
+    "description": "Deepen your understanding of the language that powers the web.",
+    "category": "JavaScript",
+    "level": "Beginner",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "keywords": [
+      "javascript",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "11",
+    "name": "Eloquent JavaScript",
+    "description": "A thoughtful book about programming, JavaScript, and building useful things.",
+    "category": "JavaScript",
+    "level": "Beginner",
+    "type": "Book",
+    "free": true,
+    "url": "https://eloquentjavascript.net/",
+    "keywords": [
+      "javascript",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "12",
+    "name": "You Don\u2019t Know JS",
+    "description": "Go beyond the surface and explore JavaScript\u2019s core mechanisms.",
+    "category": "JavaScript",
+    "level": "Advanced",
+    "type": "Book",
+    "free": true,
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "keywords": [
+      "javascript",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "13",
+    "name": "React Documentation",
+    "description": "The official guide to building user interfaces with components and hooks.",
+    "category": "React",
+    "level": "Beginner",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://react.dev/learn",
+    "keywords": [
+      "react",
+      "programming",
+      "learning"
+    ],
+    "featured": true
+  },
+  {
+    "id": "14",
+    "name": "React Reference",
+    "description": "Explore the APIs, hooks, and components at the heart of React.",
+    "category": "React",
+    "level": "Intermediate",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://react.dev/reference/react",
+    "keywords": [
+      "react",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "15",
+    "name": "Full Stack Open",
+    "description": "Build modern web applications with React, Node.js, and practical projects.",
+    "category": "React",
+    "level": "Intermediate",
+    "type": "Course",
+    "free": true,
+    "url": "https://fullstackopen.com/en/",
+    "keywords": [
+      "react",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "16",
+    "name": "React Roadmap",
+    "description": "A community-built guide to the skills and tools of a React developer.",
+    "category": "React",
+    "level": "Beginner",
+    "type": "Roadmap",
+    "free": true,
+    "url": "https://roadmap.sh/react",
+    "keywords": [
+      "react",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "17",
+    "name": "Node.js Learn",
+    "description": "Get started with JavaScript on the server, directly from the Node.js team.",
+    "category": "Node.js",
+    "level": "Beginner",
+    "type": "Course",
+    "free": true,
+    "url": "https://nodejs.org/en/learn",
+    "keywords": [
+      "node.js",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "18",
+    "name": "Node.js API",
+    "description": "The official reference for Node.js modules and runtime APIs.",
+    "category": "Node.js",
+    "level": "Intermediate",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://nodejs.org/api/",
+    "keywords": [
+      "node.js",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "19",
+    "name": "Node.js Roadmap",
+    "description": "Follow a structured path through backend JavaScript development.",
+    "category": "Node.js",
+    "level": "Beginner",
+    "type": "Roadmap",
+    "free": true,
+    "url": "https://roadmap.sh/nodejs",
+    "keywords": [
+      "node.js",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "20",
+    "name": "Express Getting Started",
+    "description": "Set up your first Express application and learn the essentials.",
+    "category": "Express",
+    "level": "Beginner",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://expressjs.com/en/starter/installing.html",
+    "keywords": [
+      "express",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "21",
+    "name": "Express Routing",
+    "description": "Learn to map requests to handlers and organize application routes.",
+    "category": "Express",
+    "level": "Beginner",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://expressjs.com/en/guide/routing.html",
+    "keywords": [
+      "express",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "22",
+    "name": "Express API Reference",
+    "description": "A detailed reference to Express request, response, and application APIs.",
+    "category": "Express",
+    "level": "Intermediate",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://expressjs.com/en/5x/api.html",
+    "keywords": [
+      "express",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "23",
+    "name": "Python Tutorial",
+    "description": "Learn Python\u2019s language features and standard library from the official tutorial.",
+    "category": "Python",
+    "level": "Beginner",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://docs.python.org/3/tutorial/",
+    "keywords": [
+      "python",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "24",
+    "name": "Automate the Boring Stuff",
+    "description": "Use Python to automate everyday tasks with practical, approachable examples.",
+    "category": "Python",
+    "level": "Beginner",
+    "type": "Book",
+    "free": true,
+    "url": "https://automatetheboringstuff.com/",
+    "keywords": [
+      "python",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "25",
+    "name": "Python for Everybody",
+    "description": "Open lessons and exercises that introduce programming through Python.",
+    "category": "Python",
+    "level": "Beginner",
+    "type": "Course",
+    "free": true,
+    "url": "https://www.py4e.com/",
+    "keywords": [
+      "python",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "26",
+    "name": "Hugging Face Learn",
+    "description": "Explore open-source AI, transformers, and modern machine learning workflows.",
+    "category": "AI",
+    "level": "Beginner",
+    "type": "Course",
+    "free": true,
+    "url": "https://huggingface.co/learn",
+    "keywords": [
+      "ai",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "27",
+    "name": "Elements of AI",
+    "description": "Understand what artificial intelligence is and how it affects our world.",
+    "category": "AI",
+    "level": "Beginner",
+    "type": "Course",
+    "free": true,
+    "url": "https://www.elementsofai.com/",
+    "keywords": [
+      "ai",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "28",
+    "name": "AI for Beginners",
+    "description": "Microsoft\u2019s open curriculum covering foundational AI concepts and techniques.",
+    "category": "AI",
+    "level": "Beginner",
+    "type": "Course",
+    "free": true,
+    "url": "https://github.com/microsoft/AI-For-Beginners",
+    "keywords": [
+      "ai",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "29",
+    "name": "Google ML Crash Course",
+    "description": "Build an understanding of machine learning with visual lessons and exercises.",
+    "category": "Machine Learning",
+    "level": "Beginner",
+    "type": "Course",
+    "free": true,
+    "url": "https://developers.google.com/machine-learning/crash-course",
+    "keywords": [
+      "machine learning",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "30",
+    "name": "fast.ai",
+    "description": "Learn practical deep learning by training models on real problems.",
+    "category": "Machine Learning",
+    "level": "Intermediate",
+    "type": "Course",
+    "free": true,
+    "url": "https://course.fast.ai/",
+    "keywords": [
+      "machine learning",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "31",
+    "name": "scikit-learn Tutorials",
+    "description": "Explore classification, regression, and model selection with Python.",
+    "category": "Machine Learning",
+    "level": "Beginner",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://scikit-learn.org/stable/tutorial/index.html",
+    "keywords": [
+      "machine learning",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "32",
+    "name": "Docker Get Started",
+    "description": "Package and run applications in containers with Docker\u2019s official guide.",
+    "category": "DevOps",
+    "level": "Beginner",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://docs.docker.com/get-started/",
+    "keywords": [
+      "devops",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "33",
+    "name": "Kubernetes Basics",
+    "description": "Learn how to deploy, scale, and manage containerized applications.",
+    "category": "DevOps",
+    "level": "Intermediate",
+    "type": "Course",
+    "free": true,
+    "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/",
+    "keywords": [
+      "devops",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "34",
+    "name": "DevOps Roadmap",
+    "description": "Navigate Linux, infrastructure, CI/CD, and cloud engineering concepts.",
+    "category": "DevOps",
+    "level": "Beginner",
+    "type": "Roadmap",
+    "free": true,
+    "url": "https://roadmap.sh/devops",
+    "keywords": [
+      "devops",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "35",
+    "name": "Pro Git",
+    "description": "The free, comprehensive book on version control with Git.",
+    "category": "Git",
+    "level": "Beginner",
+    "type": "Book",
+    "free": true,
+    "url": "https://git-scm.com/book/en/v2",
+    "keywords": [
+      "git",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "36",
+    "name": "Learn Git Branching",
+    "description": "Visualize commits and practice branching through interactive challenges.",
+    "category": "Git",
+    "level": "Beginner",
+    "type": "Interactive",
+    "free": true,
+    "url": "https://learngitbranching.js.org/",
+    "keywords": [
+      "git",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "37",
+    "name": "Atlassian Git Tutorials",
+    "description": "Understand everyday Git workflows, collaboration, and branching strategies.",
+    "category": "Git",
+    "level": "Beginner",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://www.atlassian.com/git/tutorials",
+    "keywords": [
+      "git",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "38",
+    "name": "GitHub Skills",
+    "description": "Learn GitHub with interactive courses inside real repositories.",
+    "category": "GitHub",
+    "level": "Beginner",
+    "type": "Interactive",
+    "free": true,
+    "url": "https://skills.github.com/",
+    "keywords": [
+      "github",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "39",
+    "name": "GitHub Documentation",
+    "description": "Guides for repositories, collaboration, pull requests, and more.",
+    "category": "GitHub",
+    "level": "Beginner",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://docs.github.com/en",
+    "keywords": [
+      "github",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "40",
+    "name": "GitHub Actions",
+    "description": "Automate builds, tests, and development workflows with GitHub Actions.",
+    "category": "GitHub",
+    "level": "Beginner",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://docs.github.com/en/actions",
+    "keywords": [
+      "github",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "41",
+    "name": "React Native",
+    "description": "Build native mobile applications using JavaScript and React.",
+    "category": "Mobile Development",
+    "level": "Beginner",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://reactnative.dev/docs/getting-started",
+    "keywords": [
+      "mobile development",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "42",
+    "name": "Flutter Documentation",
+    "description": "Create cross-platform mobile experiences with Flutter and Dart.",
+    "category": "Mobile Development",
+    "level": "Beginner",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://docs.flutter.dev/",
+    "keywords": [
+      "mobile development",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "43",
+    "name": "Android Basics",
+    "description": "Learn Android development through official guided courses.",
+    "category": "Mobile Development",
+    "level": "Beginner",
+    "type": "Course",
+    "free": true,
+    "url": "https://developer.android.com/courses",
+    "keywords": [
+      "mobile development",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "44",
+    "name": "PostgreSQL Tutorial",
+    "description": "Learn relational database concepts and SQL with PostgreSQL.",
+    "category": "Databases",
+    "level": "Beginner",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://www.postgresql.org/docs/current/tutorial.html",
+    "keywords": [
+      "databases",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "45",
+    "name": "SQLBolt",
+    "description": "Learn SQL through short, interactive lessons right in your browser.",
+    "category": "Databases",
+    "level": "Beginner",
+    "type": "Interactive",
+    "free": true,
+    "url": "https://sqlbolt.com/",
+    "keywords": [
+      "databases",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "46",
+    "name": "SQLite Documentation",
+    "description": "Explore the SQL language and SQLite\u2019s lightweight database engine.",
+    "category": "Databases",
+    "level": "Beginner",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://www.sqlite.org/docs.html",
+    "keywords": [
+      "databases",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "47",
+    "name": "Testing Library",
+    "description": "Test interfaces in ways that reflect how people actually use them.",
+    "category": "Testing",
+    "level": "Beginner",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://testing-library.com/docs/",
+    "keywords": [
+      "testing",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "48",
+    "name": "Playwright",
+    "description": "Write reliable browser tests for modern web applications.",
+    "category": "Testing",
+    "level": "Beginner",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://playwright.dev/docs/intro",
+    "keywords": [
+      "testing",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "49",
+    "name": "Vitest",
+    "description": "Get started with fast unit and component testing for Vite projects.",
+    "category": "Testing",
+    "level": "Beginner",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://vitest.dev/guide/",
+    "keywords": [
+      "testing",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "50",
+    "name": "Jest",
+    "description": "Learn JavaScript testing, assertions, mocks, and test organization.",
+    "category": "Testing",
+    "level": "Beginner",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://jestjs.io/docs/getting-started",
+    "keywords": [
+      "testing",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "51",
+    "name": "Developer Roadmaps",
+    "description": "Discover community-curated learning paths for every stage of your career.",
+    "category": "Software Engineering",
+    "level": "Beginner",
+    "type": "Roadmap",
+    "free": true,
+    "url": "https://roadmap.sh/",
+    "keywords": [
+      "software engineering",
+      "programming",
+      "learning"
+    ],
+    "featured": true
+  },
+  {
+    "id": "52",
+    "name": "The Missing Semester",
+    "description": "Master the command line, editors, version control, and developer tools.",
+    "category": "Software Engineering",
+    "level": "Beginner",
+    "type": "Course",
+    "free": true,
+    "url": "https://missing.csail.mit.edu/",
+    "keywords": [
+      "software engineering",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "53",
+    "name": "Refactoring Guru",
+    "description": "Explore software design patterns through clear, illustrated explanations.",
+    "category": "Software Engineering",
+    "level": "Beginner",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://refactoring.guru/design-patterns",
+    "keywords": [
+      "software engineering",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "54",
+    "name": "System Design Primer",
+    "description": "Learn to design scalable systems and understand architectural tradeoffs.",
+    "category": "Software Engineering",
+    "level": "Advanced",
+    "type": "Documentation",
+    "free": true,
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "keywords": [
+      "software engineering",
+      "programming",
+      "learning"
+    ],
+    "featured": false
+  }
+]

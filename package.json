@@ -1,0 +1,24 @@
+{
+  "name": "codehub",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "dev": "concurrently -k -n api,web \"npm run dev -w server\" \"npm run dev -w client\"",
+    "dev:admin": "concurrently -k -n api,web \"npm run dev:admin -w server\" \"npm run dev -w client\"",
+    "build": "npm run build -w client",
+    "start": "npm start -w server",
+    "test": "node --test tests/*.test.js",
+    "validate": "node server/validate.js"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}
